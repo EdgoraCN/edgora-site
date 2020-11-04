@@ -5,6 +5,8 @@
   - [虚拟网络](console-vpn.md)
   - [远程控制](console-remote.md)
   - [云开发](console-code.md)
- - [解决方案](console-slutions.md)
+  - [解决方案](console-slutions.md)
+
+- [加入我们](about-us.md)
 
 
