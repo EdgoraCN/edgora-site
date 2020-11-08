@@ -12,11 +12,10 @@
 
 * 🥳 无需任何设置，一键入网
 
-
 ## 接入方案
 
 * [Mini版本](console-remote-lite.md) Vue客户端 ＋　Guac　Go客户端 ＋ Guacd
 
-* [本的部署](console-remote-guacamole.md) Guacamole 服务端 ＋ Guacd
+* [Guacamole](console-remote-guacamole.md) Guacamole 服务端 ＋ Guacd
 
 * [免安装云版](console-remote-cloud.md) Edgora Guacamole
